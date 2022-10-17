@@ -1,0 +1,11 @@
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/elastic-email-test
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/elastic-email-test.dll
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/elastic-email-test.deps.json
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/elastic-email-test.runtimeconfig.json
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/elastic-email-test.pdb
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/CommandLine.dll
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/DnsClient.dll
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/xunit.abstractions.dll
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/xunit.assert.dll
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/xunit.core.dll
+/Users/derekmachin/Desktop/elastic-email-test/bin/Debug/net6.0/publish/xunit.execution.dotnet.dll
