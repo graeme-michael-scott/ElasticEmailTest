@@ -1,3 +1,5 @@
+![Elastic Email](logo.gif)
+
 # Goal
 
 Resolve IP addresses from DNS MX record(s) for the provided domain(s)
